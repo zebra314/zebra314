@@ -1,21 +1,25 @@
-## Welcome ![](./assets/loveparrot.gif)
+## Welcome <img src="./assets/dance-cat.gif" height="30">
 
 Hi! I'm a mech student lost somewhere in the coding forest.
+Always wandering between numbers and symbols, with a head full of chaotic thoughts.
 
-I love
+---
 
+### I love
 - robots that move, fly, or just look cool
-- cats (the cutest creature in the universe)
+- cats (the cutest creatures in the universe)
 
-Currently working on:
+---
 
+### Currently working on:
 - [iTron robotics team site](https://itrongoto.us/)
-- [manta_propheese](https://github.com/zebra314/manta_propheese), for observing rocket launch closely.
-- [quadroped_py], a quadruped robot control system, optimizing by RL training.
+- [manta_propheese](https://github.com/zebra314/manta_propheese) — an event-based camera control system for observing rocket launches up close.
+- [quadroped_py](https://github.com/zebra314/quadson_py) — a quadruped robot control system optimized with reinforcement learning.
 
-Some of my past creations:
+---
 
+### Some of my past project:
 - [Led cube](https://github.com/zebra314/led_cube)
 - [me_prac](https://github.com/zebra314/me_prac)
 - [MineRunner](https://github.com/zebra314/MineRunner)
-- [LineFollower](https://github.com/zebra314/Line_follower)
+- [2022 TDK robot](https://github.com/LittleD3092/autonomous-basketball-and-bowling-vehicle) — I was responsible for the upper control system.
