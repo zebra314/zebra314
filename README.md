@@ -15,7 +15,7 @@ Always wandering between numbers and symbols, with a head full of chaotic though
 - [manta_propheese](https://github.com/zebra314/manta_propheese) — an event-based camera control system for observing rocket launches up close.
 - [quadroped_py](https://github.com/zebra314/quadson_py) — a quadruped robot control system optimized with reinforcement learning.
 
-### Some of my past project
+### Some of my past projects
 
 - [Led cube](https://github.com/zebra314/led_cube)
 - [me_prac](https://github.com/zebra314/me_prac)
