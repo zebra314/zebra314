@@ -15,9 +15,14 @@ Always wandering between numbers and symbols, with a head full of chaotic though
 - [manta_propheese](https://github.com/zebra314/manta_propheese) — an event-based camera control system for observing rocket launches up close.
 - [quadroped_py](https://github.com/zebra314/quadson_py) — a quadruped robot control system optimized with reinforcement learning.
 
+### Currently learning
+- Event-based vision sensors
+- Synthetic data generation for training vision-based deep learning models
+- Reinforcement learning for robot motion control
+
 ### Some of my past projects
 
 - [Led cube](https://github.com/zebra314/led_cube)
 - [BallDeliveryBot](https://github.com/zebra314/MEPractice-BallDeliveryBot)
-- [MineRunner](https://github.com/zebra314/MineRunner) — a Minecraft agent train with DQN.
+- [MineRunner](https://github.com/zebra314/MineRunner) — a Minecraft agent trained with DQN.
 - [2022 TDK competition robot](https://github.com/LittleD3092/autonomous-basketball-and-bowling-vehicle) — I was responsible for the upper control system.
