@@ -1,16 +1,21 @@
-## Hi there 👋
+## Welcome ![](./assets/loveparrot.gif)
 
-<!--
-**zebra314/zebra314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm a mech student lost somewhere in the coding forest.
 
-Here are some ideas to get you started:
+I love
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- robots that move, fly, or just look cool
+- cats (the cutest creature in the universe)
+
+Currently working on:
+
+- [iTron robotics team site](https://itrongoto.us/)
+- [manta_propheese](https://github.com/zebra314/manta_propheese), for observing rocket launch closely.
+- [quadroped_py], a quadruped robot control system, optimizing by RL training.
+
+Some of my past creations:
+
+- [Led cube](https://github.com/zebra314/led_cube)
+- [me_prac](https://github.com/zebra314/me_prac)
+- [MineRunner](https://github.com/zebra314/MineRunner)
+- [LineFollower](https://github.com/zebra314/Line_follower)
