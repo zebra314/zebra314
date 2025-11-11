@@ -1,6 +1,6 @@
 ## Welcome <img src="./assets/dance-cat.gif" height="30">
 
-Hi! I'm a mech student lost somewhere in the coding forest.
+Hi! I'm a mechanical student lost somewhere in the coding forest.
 Always wandering between numbers and symbols, with a head full of chaotic thoughts.
 
 ### I love
@@ -18,6 +18,6 @@ Always wandering between numbers and symbols, with a head full of chaotic though
 ### Some of my past projects
 
 - [Led cube](https://github.com/zebra314/led_cube)
-- [me_prac](https://github.com/zebra314/me_prac)
-- [MineRunner](https://github.com/zebra314/MineRunner)
-- [2022 TDK robot](https://github.com/LittleD3092/autonomous-basketball-and-bowling-vehicle) — I was responsible for the upper control system.
+- [BallDeliveryBot](https://github.com/zebra314/MEPractice-BallDeliveryBot)
+- [MineRunner](https://github.com/zebra314/MineRunner) — a Minecraft agent train with DQN.
+- [2022 TDK competition robot](https://github.com/LittleD3092/autonomous-basketball-and-bowling-vehicle) — I was responsible for the upper control system.
