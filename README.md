@@ -12,8 +12,8 @@ Always wandering between numbers and symbols, with a head full of chaotic though
 ### Currently working on
 
 - [iTron robotics team site](https://itrongoto.us/)
+- [quadson_py](https://github.com/zebra314/quadson_py) — a quadruped robot control system optimized with reinforcement learning.
 - [manta_propheese](https://github.com/zebra314/manta_propheese) — an event-based camera control system for observing rocket launches up close.
-- [quadroped_py](https://github.com/zebra314/quadson_py) — a quadruped robot control system optimized with reinforcement learning.
 
 ### Currently learning
 - Event-based vision sensors
