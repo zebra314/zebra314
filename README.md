@@ -11,8 +11,9 @@ Always wandering between numbers and symbols, with a head full of chaotic though
 
 ### Currently working on
 - [quadson_py](https://github.com/zebra314/quadson_py) — a quadruped robot control system optimized with reinforcement learning.
-- [manta_propheese](https://github.com/zebra314/manta_propheese) — an event-based camera control system for observing rocket launches up close.
-- [iTron robotics team site](https://itrongoto.us/)
+- [kiborpc-2025](https://github.com/NYCU-iTron/kiborpc-2025) — a reproducible, competition-proven Astrobee autonomy system with high-precision vision and robust navigation.
+- [manta_propheese](https://github.com/zebra314/manta_propheese) — an event-based camera control platform for capturing high-speed rocket launch dynamics.
+- [iTron robotics team site](https://itrongoto.us/) — the official site of the NYCU iTron robotics team.
 
 ### Currently learning
 - Event-based vision sensors
